@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating innovations since I started my journey!<br>📚 I'm currently a first-year Computer Engineering student, passionate about Artificial Intelligence and its revolutionary potential.<br>🎯 Goals: Constantly learn new skills, improve myself in my field, and contribute real added value to every project.<br>🎲 Fun fact: I'm always excited by tough challenges — they push me to learn and grow faste</p>
+<p align="left">✨ Creating innovations since I started my journey!<br>📚 I'm currently a Second-year Computer Engineering student, passionate about Artificial Intelligence and its revolutionary potential.<br>🎯 Goals: Constantly learn new skills, improve myself in my field, and contribute real added value to every project.<br>🎲 Fun fact: I'm always excited by tough challenges — they push me to learn and grow faste</p>
 
 ###
 
