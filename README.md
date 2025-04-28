@@ -78,6 +78,6 @@
 
 ###
 
-<p align="left">💡 Challenges aren’t obstacles — they’re opportunities to create something amazing.<br>🧠 Always learning. Always building. Always dreaming bigger.</p>
+<p align="left">💡 Challenges aren’t obstacles — they’re opportunities to create something amazing.<br>🚀 Always exploring how AI can reshape our world — one project at a time..</p>
 
 ###
